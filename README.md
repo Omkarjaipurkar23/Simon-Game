@@ -1,4 +1,4 @@
-      Welcome to the Simon Game project! This project is a web-based implementation of the classic Simon Game, built using HTML, CSS, and JavaScript. The game challenges players to repeat an increasingly complex sequence of colors and sounds, testing their memory and attention. This project was a fun and engaging way to apply my web development skills, and I hope you enjoy playing it as much as I enjoyed creating it!
+Welcome to the Simon Game project! This project is a web-based implementation of the classic Simon Game, built using HTML, CSS, and JavaScript. The game challenges players to repeat an increasingly complex sequence of colors and sounds, testing their memory and attention. This project was a fun and engaging way to apply my web development skills, and I hope you enjoy playing it as much as I enjoyed creating it!
 
 Features :: 
 1.	Interactive Gameplay: 
